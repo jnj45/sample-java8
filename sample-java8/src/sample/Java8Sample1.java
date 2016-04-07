@@ -12,6 +12,11 @@ import java.util.Collections;
 import java.util.List;
 import java.util.stream.Stream;
 
+/**
+ * 
+ * @author Administrator
+ *
+ */
 public class Java8Sample1 {
 
 	/**
